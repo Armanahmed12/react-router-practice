@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Interactive Learning",
+      "description": "Engage with course materials through interactive content and activities.",
+      "image": "https://img.freepik.com/premium-vector/smart-learning-logo-design-template-bulb-icon-symbol-designs_22857-802.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Experienced Instructors",
+      "description": "Learn from knowledgeable and experienced instructors who are passionate about teaching.",
+      "image": "https://static.vecteezy.com/system/resources/previews/003/241/285/original/business-instructor-and-tutor-vector.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Flexible Schedules",
+      "description": "Choose from a variety of flexible course schedules to fit your busy life.",
+      "image": "https://www.amle.org/wp-content/uploads/2021/02/784784p888EDNmain1018Merenbloom_pic.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Hands-On Projects",
+      "description": "Apply what you've learned through hands-on projects and real-world examples.",
+      "image": "https://assets.asana.biz/transform/d2ffb5c8-a7c2-4e39-8447-f8e2501c5bdc/article-project-planning-project-design-2x"
+    }
+  ]
+  

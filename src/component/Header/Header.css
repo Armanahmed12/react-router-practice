@@ -1,0 +1,19 @@
+.nav-link {
+
+       color : red;
+       font-weight: bolder;
+
+}
+
+.header-page {
+
+      background-image:  linear-gradient(#ff00000e,#060606ee),url('../../images/web-bg.jpg');
+      height: 80vh;
+      color: white;
+      background-size: contain;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "subject": "Math",
+    "teacher": "John Smith",
+    "class": "Grade 10",
+    "topics": ["Algebra,", "Geometry,", "Trigonometry"],
+    "img" : "https://cdn1.vectorstock.com/i/1000x1000/04/40/black-school-concept-with-maths-subject-vector-23060440.jpg"
+  },
+  
+  {
+    "subject": "Science",
+    "teacher": "Michael Johnson",
+    "class": "Grade 8",
+    "topics": ["Biology,", "Chemistry,", "Physics"],
+    "img" : "https://img.freepik.com/free-vector/colorful-science-education-background_23-2148490697.jpg?w=2000"
+  
+  },
+  {
+    "subject": "English",
+    "teacher": "Jane Doe",
+    "class": "Grade 9",
+    "topics": ["Grammar,", "Literature,", "Writing"],
+     "img" : "https://previews.123rf.com/images/sergeyvasutin/sergeyvasutin1812/sergeyvasutin181200010/116704684-round-english-subject-concept-on-black-chalkboard.jpg"
+  }
+]
